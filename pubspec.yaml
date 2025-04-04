@@ -1,0 +1,22 @@
+name: date_picker_star
+description: A Flutter library that provides a customizable Material Design date and range picker widgets.
+version: 0.0.1
+homepage:
+
+environment:
+  sdk: '>=3.1.0 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  intl: ^0.18.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+  flutter_localizations:
+    sdk: flutter
+
+flutter:
